@@ -6,10 +6,21 @@ StormCloud is an idea aggregator designed to be low-overhead, context-free, and 
 
 <i>yeah, Ok mister buzzword, but what does all that mean REALLY?</i>
 
-<b>low-overhead</b>: Context-switching is expensive. Sometimes you get an idea, but you.re in the zone, and don't want to drop what you're doing to vet it. Sometimes you're out with friends. Sometimes you can't find a pen. Why not store that idea somewhere where you can get at it later, when you have cycles to devote to hashing it out? StormCloud makes it easy to stash your thoughts so you can get at them later, wherever you are.
+<b>low-overhead</b>: Context-switching is expensive. Sometimes you get an idea, but you.re in the zone, and don't want to drop what 
+you're doing to vet it. Sometimes you're out with friends. Sometimes you can't find a pen. Why not store that idea somewhere where 
+you can get at it later, when you have cycles to devote to hashing it out? StormCloud makes it easy to stash your thoughts so you 
+can get at them later, wherever you are.
 
-<b>Context-Free:</b> Engineers are idea people. If you.re an engineer, odds are good there are literally TONS thoughts bouncing all around your head. Maybe it.s a new module for your app. Maybe it.s that you need to send your mom a birthday card. Maybe it.s .I gotta tell Jeff what just happened on the T.. Whatever your thought, whatever your idea, StormCloud will let you store it. Make a wisp now, and give it context later, when you have time to devote to actually thinking about it.
+<b>Context-Free:</b> Engineers are idea people. If you.re an engineer, odds are good there are literally TONS thoughts bouncing all
+ around your head. Maybe it's a new module for your app. Maybe it's that you need to send your mom a birthday card. Maybe it's 
+'I gotta tell Jeff what just happened on the T'. Whatever your thought, whatever your idea, StormCloud will let you store it. 
+Make a wisp now, and give it context later, when you have time to devote to actually thinking about it.
 
-<b>Structurally Agnostic:</b> Ideas aren.t always linear and they aren.t always orderly. A to-do list is great for groceries, but not for riffing. StormCloud lets you store your ideas, whatever they are, as they pop into your head, and leaves the structure out of it until you.ve got the bandwidth to actually focus on structure.
+<b>Structurally Agnostic:</b> Ideas aren't always linear and they aren't always orderly. A to-do list is great for groceries, 
+but not for riffing. StormCloud lets you store your ideas, whatever they are, as they pop into your head, and leaves the structure
+ out of it until you've got the bandwidth to actually focus on structure.
 
-StormCloud lets you frictionlessly create threads of thought (called wisps) and store them in a centralized location (your cloud). Once stored, you can consolidate and aggregate them into a Storm, build off of or expand them (called .gusting.), or .breeze. them to various media (email, facebook, twitter, etc.). You can also share your wisps and storms with friends, as well as create collaborative environments for group gusting.
+StormCloud lets you frictionlessly create threads of thought (called wisps) and store them in a centralized location (your cloud).
+Once stored, you can consolidate and aggregate them into a Storm, build off of or expand them (called 'gusting'), or 'breeze' them
+to various media (email, facebook, twitter, etc.). You can also share your wisps and storms with friends, as well as create
+collaborative environments for group gusting.
