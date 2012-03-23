@@ -1,5 +1,3 @@
-Memome::Application.routes.draw do
-  resources :users
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
@@ -40,7 +38,7 @@ Memome::Application.routes.draw do
   #       get 'recent', :on => :collection
   #     end
   #   end
-
+  
   # Sample resource route within a namespace:
   #   namespace :admin do
   #     # Directs /admin/products/* to Admin::ProductsController
@@ -57,4 +55,6 @@ Memome::Application.routes.draw do
   # This is a legacy wild controller route that's not recommended for RESTful applications.
   # Note: This route will make all actions in every controller accessible via GET requests.
   # match ':controller(/:action(/:id))(.:format)'
+Memome::Application.routes.draw do
+  resources :users
 end
