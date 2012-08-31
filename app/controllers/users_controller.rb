@@ -69,6 +69,7 @@ class UsersController < ApplicationController
     end
   end
 
+  #just a new comment. Ignore!
   # DELETE /users/1
   # DELETE /users/1.json
   def destroy

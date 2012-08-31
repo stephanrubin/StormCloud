@@ -16,6 +16,7 @@ end
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
   gem 'coffee-rails', '~> 3.2.1'
+  gem 'execjs', "~> 1.4.0"
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer'
@@ -24,7 +25,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'therubyracer'
+#gem 'therubyracer', :platform => :ruby //not needed for Windows development
 gem 'heroku'
 
 group :production do
