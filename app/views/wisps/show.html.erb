@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Content:</b>
+  <%= @wisp.content %>
+</p>
+
+<p>
+  <b>User:</b>
+  <%= @wisp.user_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_wisp_path(@wisp) %> |
+<%= link_to 'Back', wisps_path %>
