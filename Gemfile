@@ -21,16 +21,21 @@ group :assets do
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer'
 
-  gem 'uglifier', '>= 1.0.3'
+  gem 'uglifier', '>= 1.2.3'
 end
 
 gem 'jquery-rails'
-#gem 'therubyracer', :platform => :ruby //not needed for Windows development
 gem 'heroku'
 
 group :production do
 gem 'pg', '0.12.2'
 end
+
+#not needed for Windows development, so put it in a group 'unix' and do not include on windows installs
+group unix do
+	gem 'therubyracer', :platform => :ruby
+end
+
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
