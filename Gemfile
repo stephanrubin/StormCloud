@@ -32,7 +32,7 @@ gem 'pg', '0.12.2'
 end
 
 #not needed for Windows development, so put it in a group 'unix' and do not include on windows installs
-group unix do
+group :unix do
 	gem 'therubyracer', :platform => :ruby
 end
 
