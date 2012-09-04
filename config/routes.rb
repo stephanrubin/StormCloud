@@ -57,4 +57,5 @@
   # match ':controller(/:action(/:id))(.:format)'
 Memome::Application.routes.draw do
   resources :users
+  resources :wisps
 end
